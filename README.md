@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dibyaranjanGIT
 - 👀 I’m interested in Data Engineering, Data Science , Machine Learning and Deep Learning
-- 🌱 I’m getting to know and started exploring about complete ML life cycle and MLOps .
-- 💞️ I’m looking to collaborate on any skills related to Data Science and Data Engineering.
+- 💞️ I’m looking to collaborate on any skills related to Data Engineering and Data Science.
 - 📫 You can reach over gmail : dibyaranjan.official@gmail.com
 
 <!---
